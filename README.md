@@ -65,7 +65,8 @@ $ yarn dev
 2. Clone the repository
 
 ```bash
-git clone https://github.com/@username/copytok
+git clone https://github.com/@username/to-to-redux
+
 ```
 
 3. Create your Feature Branch
